@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2da85680-ebdf-4bc9-b5d7-c45b2887e019" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lambda/AtividadeLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_apache_spark_spark_core_2_11_2_4_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_spark_spark_core_2_11_2_4_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pairrdd/aggregation/AvgCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pairrdd/aggregation/AvgCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pairrdd/aggregation/RealEstateReduceAndSortByKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pairrdd/aggregation/RealEstateReduceAndSortByKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pairrdd/aggregation/WordCountReduceByKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pairrdd/aggregation/WordCountReduceByKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pairrdd/filter/FilterPairRDD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pairrdd/filter/FilterPairRDD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rdd/SetOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rdd/SetOps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rdd/airport/AirportUSA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rdd/airport/AirportUSA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rdd/airport/AvgLatitude.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rdd/airport/AvgLatitude.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rdd/math/Fatorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rdd/math/Fatorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rdd/math/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rdd/math/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rdd/nasa/Union.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rdd/nasa/Union.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sql/HousePriceSQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/HousePriceSQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sql/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/Response.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sql/StackOverFlowSQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/StackOverFlowSQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sql/StronglyTypedStackOverflow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/StronglyTypedStackOverflow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sql/UKPostCodeJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/UKPostCodeJoin.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1QARruhejvQEj2TwGOvyir20vUY" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Projeto Final/Garage41_Server/MavenREST" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15049227" />
+    <property name="project.structure.side.proportion" value="0.35346097" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StronglyTypedStackOverflow">
+    <configuration name="HousePriceSQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sql.HousePriceSQL" />
+      <module name="big-data-spark-student" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RealEstateReduceAndSortByKey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pairrdd.aggregation.RealEstateReduceAndSortByKey" />
+      <module name="big-data-spark-student" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pairrdd.aggregation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackOverFlowSQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sql.StackOverFlowSQL" />
+      <module name="big-data-spark-student" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StronglyTypedStackOverflow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sql.StronglyTypedStackOverflow" />
+      <module name="big-data-spark-student" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UKPostCodeJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sql.UKPostCodeJoin" />
+      <module name="big-data-spark-student" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RealEstateReduceAndSortByKey" />
+      <item itemvalue="Application.StackOverFlowSQL" />
+      <item itemvalue="Application.HousePriceSQL" />
+      <item itemvalue="Application.UKPostCodeJoin" />
+      <item itemvalue="Application.StronglyTypedStackOverflow" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StronglyTypedStackOverflow" />
+        <item itemvalue="Application.UKPostCodeJoin" />
+        <item itemvalue="Application.HousePriceSQL" />
+        <item itemvalue="Application.StackOverFlowSQL" />
+        <item itemvalue="Application.RealEstateReduceAndSortByKey" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2da85680-ebdf-4bc9-b5d7-c45b2887e019" name="Default Changelist" comment="" />
+      <created>1561512975512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561512975512</updated>
+      <workItem from="1561512976815" duration="540000" />
+      <workItem from="1567211618080" duration="5000" />
+      <workItem from="1567211673538" duration="669000" />
+      <workItem from="1569335462589" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
