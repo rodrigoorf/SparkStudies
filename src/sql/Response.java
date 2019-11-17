@@ -39,4 +39,13 @@ public class Response implements Serializable {
     public void setSalaryMidpoint(Double salaryMidpoint) {
         this.salaryMidpoint = salaryMidpoint;
     }
+
+    @Override
+    public String toString() {
+        return "Response{" +
+                "occupation='" + occupation + '\'' +
+                ", ageMidpoint=" + ageMidpoint +
+                ", salaryMidpoint=" + salaryMidpoint +
+                '}';
+    }
 }
