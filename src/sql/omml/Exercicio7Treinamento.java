@@ -6,8 +6,6 @@ import org.apache.spark.sql.Dataset;
 import org.apache.spark.sql.Row;
 import org.apache.spark.sql.SparkSession;
 
-import java.util.List;
-
 import static org.apache.spark.sql.functions.col;
 // número de propostas de clientes que vivem próximos a uma região de risco e com renda maior que R$ 7.000
 public class Exercicio7Treinamento {

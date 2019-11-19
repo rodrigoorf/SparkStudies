@@ -8,7 +8,7 @@ import org.apache.spark.sql.SparkSession;
 
 import static org.apache.spark.sql.functions.col;
 
-// número de proposta de clientes adimplentes e inadimplentes com renda maior que R$ 5.000 e sócios de empresa ou não
+// número de propostas de clientes adimplentes e inadimplentes com renda maior que R$ 5.000 e sócios de empresa ou não
 public class Exercicio8Treinamento {
     public static void main(String[] args) {
         // Sets ERROR-only logging

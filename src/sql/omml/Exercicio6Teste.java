@@ -8,7 +8,7 @@ import org.apache.spark.sql.SparkSession;
 
 import static org.apache.spark.sql.functions.*;
 
-// percentual de propostas de crédito cujo cliente vive em uma cidada com IDH de acordo com as faixas
+// percentual de propostas de crédito cujo cliente vive em uma cidade com IDH de acordo com as faixas
 public class Exercicio6Teste {
     public static void main(String[] args) {
         // Sets ERROR-only logging
